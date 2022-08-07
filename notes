@@ -1,0 +1,10 @@
+for + or - : 
+we can use event handler onclick,/onsubmit/onchange/mouse hover etc
+
+or we can use addEventListener
+
+I used here addEventListener
+
+ Banglay notes
+input field a kono ekta text k amra (input.value) eta diyea access korte pari
+ar jokhon input field chara onno kono field hoy tokhon tokhon amra .inner text dara access korte pari 
