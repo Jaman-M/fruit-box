@@ -8,7 +8,7 @@ document.getElementById('fruit1-minus').addEventListener('click', function(){
     // console.log(productNumber);
 
     if(productNumber>0){
-        document.getElementById('fruit1-total').innerText=productNumber*30;
+        document.getElementById('fruit1-total').innerText=productNumber*20;
     }
     else{
         alert("Add some fruits")
